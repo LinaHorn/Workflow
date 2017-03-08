@@ -2,8 +2,11 @@
 
 ## Warum wir git verwenden
 
-1. Teamfähig
-1. backup
-1. zurück zu einer vorigen Version
+* Teamfähig
+* backup
+* zurück zu einer vorigen Version
 
-## Nächster Kurs HTML
+## Bilder und Links
+
+![Seegrube] (pano_nordkette_winter.jpg) 
+Quelle: [Bild von der Seegrube] (http://web56.alpha1.stuon.com/die-bahn/lifte-in-betrieb.html)
