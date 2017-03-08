@@ -13,7 +13,12 @@
 1. Sign Off
 1. Commit
 1. Push 
+
 ![Screenshot der Tools](Screenshot2.JPG) 
 
 * Zusatzinfo: vorher muss unter Edit, Options, Global bei Default File Contents Encoding utf-8 gewählt werden
 * in GIT GUI wird unterhalb des gelben Streifens gezeigt, welche Textteile hinzugefügt und gelöscht wurden
+
+* Unter [github](https://github.com/) einen Account anlegen und ein neues Projekt anlegen
+* Link wird erstellt
+* Unter Remote und Add kann der Link hinzugefügt werden. Dies wird gemacht, damit verschiedene User auf das Projekt zugreifen können
